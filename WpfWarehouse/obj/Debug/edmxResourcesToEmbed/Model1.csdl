@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WpfWarehouseDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="categories">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="title" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="products" Relationship="Self.FK__products__catego__403A8C7D" FromRole="categories" ToRole="products" />
+  </EntityType>
+  <EntityType Name="deliveries">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="product_id" Type="Int32" Nullable="false" />
+    <Property Name="delivery_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+    <Property Name="cost" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <NavigationProperty Name="products" Relationship="Self.FK__deliverie__produ__440B1D61" FromRole="deliveries" ToRole="products" />
+  </EntityType>
+  <EntityType Name="products">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="title" Type="String" MaxLength="60" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="price" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="quantity" Type="Int32" Nullable="false" />
+    <Property Name="category_id" Type="Int32" Nullable="false" />
+    <Property Name="supplier_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="categories" Relationship="Self.FK__products__catego__403A8C7D" FromRole="products" ToRole="categories" />
+    <NavigationProperty Name="deliveries" Relationship="Self.FK__deliverie__produ__440B1D61" FromRole="products" ToRole="deliveries" />
+    <NavigationProperty Name="suppliers" Relationship="Self.FK__products__suppli__412EB0B6" FromRole="products" ToRole="suppliers" />
+  </EntityType>
+  <EntityType Name="suppliers">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="contact_person" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="phone" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="products" Relationship="Self.FK__products__suppli__412EB0B6" FromRole="suppliers" ToRole="products" />
+  </EntityType>
+  <Association Name="FK__products__catego__403A8C7D">
+    <End Role="categories" Type="Self.categories" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="products" Type="Self.products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="categories">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="category_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__deliverie__produ__440B1D61">
+    <End Role="products" Type="Self.products" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="deliveries" Type="Self.deliveries" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="deliveries">
+        <PropertyRef Name="product_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__products__suppli__412EB0B6">
+    <End Role="suppliers" Type="Self.suppliers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="products" Type="Self.products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="suppliers">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="supplier_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WpfWarehouseDbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="categories" EntityType="Self.categories" />
+    <EntitySet Name="deliveries" EntityType="Self.deliveries" />
+    <EntitySet Name="products" EntityType="Self.products" />
+    <EntitySet Name="suppliers" EntityType="Self.suppliers" />
+    <AssociationSet Name="FK__products__catego__403A8C7D" Association="Self.FK__products__catego__403A8C7D">
+      <End Role="categories" EntitySet="categories" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__deliverie__produ__440B1D61" Association="Self.FK__deliverie__produ__440B1D61">
+      <End Role="products" EntitySet="products" />
+      <End Role="deliveries" EntitySet="deliveries" />
+    </AssociationSet>
+    <AssociationSet Name="FK__products__suppli__412EB0B6" Association="Self.FK__products__suppli__412EB0B6">
+      <End Role="suppliers" EntitySet="suppliers" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

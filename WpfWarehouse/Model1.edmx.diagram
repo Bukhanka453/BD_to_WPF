@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6ed6d3f17a0943ea8f4e8e6adc807d58" Name="Diagram1">
+        <EntityTypeShape EntityType="WpfWarehouseDbModel.categories" Width="1.5" PointX="1" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="WpfWarehouseDbModel.deliveries" Width="1.5" PointX="5.125" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="WpfWarehouseDbModel.products" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="WpfWarehouseDbModel.suppliers" Width="1.5" PointX="3" PointY="4.25" IsExpanded="true" />
+        <AssociationConnector Association="WpfWarehouseDbModel.FK__products__catego__403A8C7D" ManuallyRouted="false" />
+        <AssociationConnector Association="WpfWarehouseDbModel.FK__deliverie__produ__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="WpfWarehouseDbModel.FK__products__suppli__412EB0B6" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

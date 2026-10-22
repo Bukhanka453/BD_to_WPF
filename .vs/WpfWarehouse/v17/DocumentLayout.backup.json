@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|c:\\users\\glebs\\source\\repos\\wpfwarehouse\\wpfwarehouse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\servise\\databaseservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\servise\\databaseservise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\deliveries.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\deliveries.partial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\views\\deliveriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\views\\deliveriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\views\\deliveriesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\views\\deliveriesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\views\\categoriesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\views\\categoriesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\windows\\deliverydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\windows\\deliverydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\windows\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\windows\\productdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\windows\\supplierdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\windows\\supplierdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\views\\productsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\views\\productsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\views\\productsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\windows\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\windows\\productdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\windows\\deliverydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\windows\\deliverydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\windows\\supplierdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\windows\\supplierdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\views\\suppliersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\views\\suppliersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\views\\suppliersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\views\\suppliersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\views\\categoriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\views\\categoriesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\windows\\categorydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\windows\\categorydialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\windows\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\windows\\categorydialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\wpfwarehouse\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F20BF993-F77F-4B83-B50B-53D316F253FF}|WpfWarehouse\\WpfWarehouse.csproj|solutionrelative:wpfwarehouse\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deliveries.partial.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\deliveries.partial.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\deliveries.partial.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\deliveries.partial.cs",
+              "RelativeToolTip": "WpfWarehouse\\deliveries.partial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T19:30:17.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\ProductDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Windows\\ProductDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\ProductDialog.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\Windows\\ProductDialog.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAswJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T19:11:39.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\ProductsView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Views\\ProductsView.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\ProductsView.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\Views\\ProductsView.xaml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv3MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T19:10:55.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\ProductDialog.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Windows\\ProductDialog.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\ProductDialog.xaml",
+              "RelativeToolTip": "WpfWarehouse\\Windows\\ProductDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T19:10:42.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsView.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\ProductsView.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Views\\ProductsView.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\ProductsView.xaml",
+              "RelativeToolTip": "WpfWarehouse\\Views\\ProductsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T19:10:05.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\SupplierDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Windows\\SupplierDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\SupplierDialog.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\Windows\\SupplierDialog.xaml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwHIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T19:07:26.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\SupplierDialog.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Windows\\SupplierDialog.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\SupplierDialog.xaml",
+              "RelativeToolTip": "WpfWarehouse\\Windows\\SupplierDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T19:07:07.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SuppliersView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\SuppliersView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Views\\SuppliersView.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\SuppliersView.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\Views\\SuppliersView.xaml.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T19:05:56.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SuppliersView.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\SuppliersView.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Views\\SuppliersView.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\SuppliersView.xaml",
+              "RelativeToolTip": "WpfWarehouse\\Views\\SuppliersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T19:05:39.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeliveriesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\DeliveriesView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Views\\DeliveriesView.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\DeliveriesView.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\Views\\DeliveriesView.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:53:54.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeliveriesView.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\DeliveriesView.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Views\\DeliveriesView.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\DeliveriesView.xaml",
+              "RelativeToolTip": "WpfWarehouse\\Views\\DeliveriesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T18:53:03.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeliveryDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\DeliveryDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Windows\\DeliveryDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\DeliveryDialog.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\Windows\\DeliveryDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T18:51:45.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeliveryDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\DeliveryDialog.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Windows\\DeliveryDialog.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\DeliveryDialog.xaml",
+              "RelativeToolTip": "WpfWarehouse\\Windows\\DeliveryDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T18:51:31.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\CategoryDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Windows\\CategoryDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\CategoryDialog.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\Windows\\CategoryDialog.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:53:24.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\CategoriesView.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Views\\CategoriesView.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\CategoriesView.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\Views\\CategoriesView.xaml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:52:58.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\CategoryDialog.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Windows\\CategoryDialog.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Windows\\CategoryDialog.xaml",
+              "RelativeToolTip": "WpfWarehouse\\Windows\\CategoryDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T17:52:14.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesView.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\CategoriesView.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Views\\CategoriesView.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Views\\CategoriesView.xaml",
+              "RelativeToolTip": "WpfWarehouse\\Views\\CategoriesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T17:51:09.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseServise.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Servise\\DatabaseServise.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Servise\\DatabaseServise.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Servise\\DatabaseServise.cs",
+              "RelativeToolTip": "WpfWarehouse\\Servise\\DatabaseServise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T17:45:20.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\App.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:11:23.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\App.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\App.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\App.xaml",
+              "RelativeToolTip": "WpfWarehouse\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T10:11:13.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Model1.edmx",
+              "RelativeDocumentMoniker": "WpfWarehouse\\Model1.edmx",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WpfWarehouse\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-02T09:50:24.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfWarehouse\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\MainWindow.xaml",
+              "RelativeToolTip": "WpfWarehouse\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T09:45:43.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfWarehouse\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\glebs\\source\\repos\\WpfWarehouse\\WpfWarehouse\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfWarehouse\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:45:42.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
